@@ -1,0 +1,33 @@
+{
+	"window": {
+		"width": 640,
+		"height": 480,
+		"fullscreen": false
+	},
+	"audio": {
+		"useInput": false
+	},
+	"midi": {
+		"midiFreqMin": 1,
+		"midiFreqMax": 2,
+		"midiFadePower": 3
+	},
+	"gui": {
+		"opacity": 0
+	},
+	"font": {
+		"size": 0
+	},
+	"theme": {
+		"text": "00FF00FF",
+		"comment": "00FF00FF",
+		"number": "00FF00FF",
+		"op": "00FF00FF",
+		"keyword": "00FF00FF",
+		"type": "00FF00FF",
+		"builtin": "00FF00FF",
+		"preprocessor": "00FF00FF",
+		"selection": "00FF00FF",
+		"charBackground": "00FF00FF"
+	}
+}
